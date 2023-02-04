@@ -1,4 +1,4 @@
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AimanAnizan56&count_private=true&show_icons=true&theme=tokyonight">
+  <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=AimanAnizan56&count_private=true&show_icons=true&theme=tokyonight">
 
 ## Hello there 👋
 

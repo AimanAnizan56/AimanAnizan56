@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AimanAnizan56&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 
-## Hello there 👋
+## 👋 Hello there
 
 #### I'm Aiman Anizan! I love exploring new technologies in programming.
 

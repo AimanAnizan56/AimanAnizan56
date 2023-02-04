@@ -1,6 +1,6 @@
-### Hello there 👋
+## Hello there 👋
 
-I'm Aiman Anizan! I love exploring new technologies in programming.
+#### I'm Aiman Anizan! I love exploring new technologies in programming.
 
 - 📜 I was a former student of Diploma in Computer Science.
 

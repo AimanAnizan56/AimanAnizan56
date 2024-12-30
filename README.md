@@ -8,15 +8,15 @@
 
 ## 👋 Hello there
 
-#### I'm Aiman Anizan! I love exploring new technologies in programming
+#### I'm Aiman Anizan! I am highly motivated in software engineering with a passion for creating innovative and user-friendly technology. I love exploring new technologies in programming
 
-- 📜 I was a former student of Diploma in Computer Science.
+- 🎓 I was a former student of Diploma in Computer Science and Degree of Information Systems Engineering.
 
-- 🎓 Currently, I am pursuing a Bachelor of Information Systems (Hons.) in Information Systems Engineering at UiTM in Malaysia.
+- 🏢 Currently, I am working as a programmer for developing desktop application in Kuala Lumpur, Malaysia.
 
 - 🌱 I have a strong interest in the MERN stack and have gained some experience with ReactJS, Express, and NodeJS.
 
-- ⚡ I'm still in learning about Cloud Native, Docker, Webpack, MongoDB and Gulp.
+- ⚡ Currently exploring and learning about NextJS, Python, Cloud Native, Docker, MongoDB.
 
 ## 🤙🏻 You can reach out
 

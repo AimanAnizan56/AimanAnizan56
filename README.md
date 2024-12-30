@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AimanAnizan56&count_private=true&show_icons=true&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AimanAnizan56&theme=github_dark">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AimanAnizan56&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AimanAnizan56&theme=github_dark">
 </p>
 
 ## 👋 Hello there
 
-#### I'm Aiman Anizan! I love exploring new technologies in programming.
+#### I'm Aiman Anizan! I love exploring new technologies in programming
 
 - 📜 I was a former student of Diploma in Computer Science.
 
